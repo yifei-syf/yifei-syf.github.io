@@ -34,7 +34,7 @@ My research interest includes urban public transport, traffic control, and traff
 
 
 # 💬 Academic Activities
-- *2023.06*, participated in 2023 World Transportation Conference, Wuhan, and give a report. The paper was included in the proceedings.
+- *2023.06*, participated in 2023 World Transportation Conference, Wuhan, and gave a report. The paper was included in the proceedings.
 - *2022.06*, participated in 2022 World Transportation Conference, Wuhan. and gave a report. The paper was included in the proceedings, rated as an excellent paper.
 
   
