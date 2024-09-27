@@ -29,7 +29,7 @@ My research interest includes urban public transport, traffic control, and traff
 
 # 📝 Publications 
 - **Suo, Y.**; Lei, B.; Xun, T.; Li, N.; Lei, D.; Luo, L.; Cao, X. Optimization Method of Subway Station Guide Sign Based on Pedestrian Walking Behavior. Sustainability 2023, 15, 12690. https://doi.org/10.3390/su151712690
-- Lei, B.,Zhang, p., **Suo, Y.** and Li,n. SAX-STGCN: Dynamic Spatio-Temporal Graph Convolutional Networks for Traffic Flow Prediction. IEEE Access, vol. 10, pp. 107022-107031, 2022, doi: 10.1109/ACCESS.2022.3211518.
+- Lei, B.,Zhang, p., **Suo, Y.** and Li,n. SAX-STGCN: Dynamic Spatio-Temporal Graph Convolutional Networks for Traffic Flow Prediction. IEEE Access, vol. 10, pp. 107022-107031, 2022. https://doi.org/10.1109/ACCESS.2022.3211518.
 
 # 💬 Academic Activities
 - *2023.06*, participated in 2023 World Transportation Conference, Wuhan, and give a report. The paper was included in the proceedings.
