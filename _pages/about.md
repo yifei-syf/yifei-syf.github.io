@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student from [School of Transportation Engineeering](https://ysxy.chd.edu.cn/), [Chang'an University](https://www.chd.edu.cn/). major in Transportation Planning and Management. My supervisor is Prof. Yajuan DENG. I recived my Master's Degree in [School of Civil Engineering](https://civil.xauat.edu.cn/), [Xi'an University of Archetecture and Technology](https://cn.xauat.edu.cn/), supervised by Prof. Bin LEI, and recived my Bachelor's Degree in [School of Highway](https://highway.chd.edu.cn/), Chang'an University.
+I am currently a Ph.D student from [School of Transportation Engineeering](https://ysxy.chd.edu.cn/), [Chang'an University](https://www.chd.edu.cn/), major in Transportation Planning and Management. My supervisor is Prof. Yajuan DENG. I recived my Master's Degree in [School of Civil Engineering](https://civil.xauat.edu.cn/), [Xi'an University of Archetecture and Technology](https://cn.xauat.edu.cn/), supervised by Prof. Bin LEI, and recived my Bachelor's Degree in [School of Highway](https://highway.chd.edu.cn/), Chang'an University.
 
 My research interest includes urban public transport, traffic control, and traffic safety.
 
