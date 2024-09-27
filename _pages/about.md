@@ -28,13 +28,16 @@ My research interest includes urban public transport, traffic control, and traff
 - *2016.09 - 2020.06*, B.E. in School of Highway, Chang'an University, Xi'an, China.
 
 # 📝 Publications 
-- *Suo, Y.; Lei, B.; Xun, T.; Li, N.; Lei, D.; Luo, L.; Cao, X. Optimization Method of Subway Station Guide Sign Based on Pedestrian Walking Behavior. Sustainability 2023, 15, 12690. https://doi.org/10.3390/su151712690
-- *Lei, B.,Zhang, p., Suo, Y. and Li,n. SAX-STGCN: Dynamic Spatio-Temporal Graph Convolutional Networks for Traffic Flow Prediction. IEEE Access, vol. 10, pp. 107022-107031, 2022, doi: 10.1109/ACCESS.2022.3211518.
+- Suo, Y.; Lei, B.; Xun, T.; Li, N.; Lei, D.; Luo, L.; Cao, X. Optimization Method of Subway Station Guide Sign Based on Pedestrian Walking Behavior. Sustainability 2023, 15, 12690. https://doi.org/10.3390/su151712690
+- Lei, B.,Zhang, p., Suo, Y. and Li,n. SAX-STGCN: Dynamic Spatio-Temporal Graph Convolutional Networks for Traffic Flow Prediction. IEEE Access, vol. 10, pp. 107022-107031, 2022, doi: 10.1109/ACCESS.2022.3211518.
 
 # 💬 Academic Activities
-- *2021.06*,participated in 2023 World Transportation Conference to give a report. The paper was included in the proceedings.
-- *2021.06*, participated in 2022 World Transportation Conference and gave a report. The paper was included in the proceedings and was rated as an excellent paper.
-- 
+- *2023.06*, participated in 2023 World Transportation Conference, Wuhan, and give a report. The paper was included in the proceedings.
+- *2022.06*, participated in 2022 World Transportation Conference, Wuhan. and gave a report. The paper was included in the proceedings, rated as an excellent paper.
+  
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.12*, National academic science and technology competition "Huawei Cup Mathematical Modeling Contest", won the national third prize.
+- *2022.09*, the grand prize in Jiaoyan Cup Traffic Optimization and Improvement College Student Innovation Design Competition.
+- *2023.12*, first-class scholarship of Civil Engineering College in 2023.
+- *2022.12*, second-class scholarship of College of Civil Engineering in 2022.
+- *2021.10*, Won the third prize in the National English Competition for College Students.
