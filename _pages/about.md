@@ -36,8 +36,8 @@ My research interest includes urban public transport, traffic control, and traff
 - *2022.06*, participated in 2022 World Transportation Conference, Wuhan. and gave a report. The paper was included in the proceedings, rated as an excellent paper.
   
 # 🎖 Honors and Awards
-- *2021.12*, National academic science and technology competition "Huawei Cup Mathematical Modeling Contest", won the national third prize.
-- *2022.09*, the grand prize in Jiaoyan Cup Traffic Optimization and Improvement College Student Innovation Design Competition.
-- *2023.12*, first-class scholarship of Civil Engineering College in 2023.
-- *2022.12*, second-class scholarship of College of Civil Engineering in 2022.
-- *2021.10*, Won the third prize in the National English Competition for College Students.
+- *2021.12*, the third prize of National academic science and technology competition "Huawei Cup Mathematical Modeling Contest".
+- *2022.09*, the grand prize of Jiaoyan Cup Traffic Optimization and Improvement College Student Innovation Design Competition.
+- *2023.12*, the first-class scholarship of Civil Engineering College in 2023.
+- *2022.12*, the second-class scholarship of College of Civil Engineering in 2022.
+- *2021.10*, the third prize of the National English Competition for College Students.
